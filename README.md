@@ -16,4 +16,4 @@ a=os.urandom(16)
 print(a)
 
 
-And copy the returned value and paste it in the program in the line stating: salt=b'salt', replace "b'salt'" with the copied value.
+# Copy the returned value and paste it in the program in the line stating: salt=b'salt', replace "b'salt'" with the copied value.
